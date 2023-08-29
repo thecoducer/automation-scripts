@@ -1,0 +1,7 @@
+host = 'localhost'
+user = 'furlenco'
+password = 'furlenco'
+database_name = 'sms'
+broker = 'localhost:9092'
+payment_update_topic = 'GRINGOTTS__PAYMENT_UPDATES'
+kyc_update_topic = 'DELPHI__KYC_UPDATES'
